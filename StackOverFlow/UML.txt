@@ -1,0 +1,3 @@
+Entities :
+One enum for reused concrete fixed items -> VoteType
+Vote class for
